@@ -12,9 +12,9 @@ main.cpp: Main program for user interaction and execution of Huffman coding func
 .gitignore: Specifies files and directories to ignore in the Git repository.
 
 Features
-Build Huffman Tree: Constructs a Huffman tree based on character frequencies.
+Build Huffman Tree: Construct a Huffman tree based on character frequencies.
 Encode: Converts input text into a binary string using Huffman codes.
 Decode: Optionally decodes the binary string back to the original text.
 
 Clone the Repository
-git clone https://github.com/your-username/huffman-project.git
+git clone https://github.com/Abhilashak0027/FILE_COMPRESSION.git
