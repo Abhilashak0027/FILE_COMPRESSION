@@ -1,0 +1,12 @@
+# Ignore object and compiled files
+*.o
+*.out
+*.exe
+*.gch
+
+# Ignore binary files
+huffman
+
+# Ignore system or editor files
+.DS_Store
+*.swp
